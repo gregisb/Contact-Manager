@@ -1,9 +1,11 @@
 # Contact Manager
 
 Contact Manager é uma aplicação simples desenvolvida para estudo de alguns fundamentos do React.
-A aplicação funciona como uma lista de contatos, em que o usuário pode adcionar seus contatos com nome e e-mail.
+A aplicação funciona como uma lista de contatos, em que o usuário pode adcionar seus contatos com nome e e-mail, bem como excluílos.
 
-Estudo sobre hooks, useState para manipulação dos dados e useEffect para armazenamento no LocalStorage.
+Estudo sobre hooks, useState para manipulação de estdos e useEffect para armazenamento no LocalStorage.
+
+#react #javascript
 
 
 # Getting Started with Create React App
