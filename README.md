@@ -5,7 +5,7 @@ A aplicação funciona como uma lista de contatos, em que o usuário pode adcion
 
 - Estudo sobre hooks: useState para manipulação de estados e useEffect para armazenamento no LocalStorage.
 
-- Estudo sobre rotas e react-router-dom e manipulação das props entre os componentes.
+- Estudo sobre BrowserRouter, Router e Switch (react-router-dom) e manipulação das props entre os componentes.
 
 #react #javascript
 
