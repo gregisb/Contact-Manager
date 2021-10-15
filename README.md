@@ -1,3 +1,5 @@
+<img src="https://github.com/gregisb/Contact-Manager/blob/main/public/demo1.png?raw=true" />
+
 # Contact Manager
 
 Contact Manager é uma aplicação simples desenvolvida para estudo de alguns fundamentos do React.
