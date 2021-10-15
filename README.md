@@ -7,6 +7,10 @@ A aplicação funciona como uma lista de contatos, em que o usuário pode adcion
 
 - Estudo sobre BrowserRouter, Router e Switch (react-router-dom) e manipulação das props entre os componentes.
 
+Desenvolver esse projeto em React foi interessante e desafiador em diversos aspectos. Principalmente ao trabalhar com rotas utilizando o react-router-dom com BrowserRouter, Route e Switch, foi possível a criação de diferentes rotas para adição de contatos, listagem de contatos adcionados e a página de perfil de cada um dos contatos. A manipulação das props entre diferentes componentes e rotas foi especialmente desafiadora.
+
+Além de fixar conceitos básicos do React como estados e componentes, foi interessante desenvolver o armazenamento no localStorage através do hook useEffect, que tornou o processo mais simples.
+
 #react #javascript
 
 
